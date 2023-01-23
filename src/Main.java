@@ -90,6 +90,6 @@ public class Main {
         overallWorkHours = staffMembers * 8;
         System.out.println("Если в компании работает " + staffMembers + " человек, то всего "
                 + overallWorkHours + " часов работы может быть поделено между сотрудниками");
-        System.out.println("Работа завершена");
+        System.out.println("Работа завершена.");
     }
 }
